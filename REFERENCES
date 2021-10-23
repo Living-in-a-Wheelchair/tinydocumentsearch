@@ -1,0 +1,7 @@
+A special thank you to the following open-source projects and blogposts for their major contribution to this work:
+
+Stavros Korokithakis' blogpost on Bloom Filters: https://www.stavros.io/posts/bloom-filter-search-engine/
+
+Matthias Endler's implementation of the above blogpost based on XOR filters and in Rust: https://github.com/tinysearch/tinysearch
+
+The Apache Software Foundation's Tika document parsing project: https://tika.apache.org/
